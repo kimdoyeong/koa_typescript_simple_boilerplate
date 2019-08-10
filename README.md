@@ -1,6 +1,6 @@
 # Boilerplate
 
-ES6 + Babel + Koa Boilerplate
+Typescript + Koa Boilerplate
 
 # Table Of Contents
 
